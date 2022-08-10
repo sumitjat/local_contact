@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630593184114",
+    "project_id": "houzeo-68282",
+    "storage_bucket": "houzeo-68282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630593184114:android:483a890b50c49b20cefdeb",
+        "android_client_info": {
+          "package_name": "com.example.houzeo_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630593184114-s8g8u4t9869jmm98stjueij2s9ppc26c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnW67WKMAE00dkuvYK-Sdp4UdZj-8VV6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630593184114-s8g8u4t9869jmm98stjueij2s9ppc26c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
